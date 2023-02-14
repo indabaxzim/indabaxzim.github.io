@@ -37,7 +37,7 @@ git clone https://github.com/$YOUR_USERNAME/opensource-website/
 cd opensource-website
 ```
 
-2. Install Hugo
+2. Install Hugo.
 
 [Install Hugo](https://gohugo.io/getting-started/installing/)
 
