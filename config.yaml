@@ -1,6 +1,12 @@
+<<<<<<< HEAD
 baseURL: https://indabax.github.io/
 languageCode: en-us
 title: IndabaX Zimbabwe
+=======
+baseURL: https://indabaxzim.github.io/
+languageCode: en-us
+title: Indaba X Zim
+>>>>>>> f8475e606a6e4cdc188eddf7fb3ec46b1d866af0
 
 # disable taxonomy pages
 taxonomies: []
