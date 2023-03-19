@@ -1,44 +1,44 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>IndabaX Zimbabwe on Indaba X Zim</title>
-    <link>https://indabaxzim.github.io/</link>
-    <description>Recent content in IndabaX Zimbabwe on Indaba X Zim</description>
+    <title>IndabaX Zimbabwe</title>
+    <link>https://indabax.github.io/</link>
+    <description>Recent content on IndabaX Zimbabwe</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://indabaxzim.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://indabax.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Projects</title>
-      <link>https://indabaxzim.github.io/projects/</link>
+      <title>Past</title>
+      <link>https://indabax.github.io/projects/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://indabaxzim.github.io/projects/</guid>
+      <guid>https://indabax.github.io/projects/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Review</title>
-      <link>https://indabaxzim.github.io/year-in-review/</link>
+      <title>Past IndabaX Events</title>
+      <link>https://indabax.github.io/year-in-review/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://indabaxzim.github.io/year-in-review/</guid>
+      <guid>https://indabax.github.io/year-in-review/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Committee</title>
-      <link>https://indabaxzim.github.io/memberships/</link>
+      <title>Organising Committee</title>
+      <link>https://indabax.github.io/memberships/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://indabaxzim.github.io/memberships/</guid>
+      <guid>https://indabax.github.io/memberships/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Project Status</title>
-      <link>https://indabaxzim.github.io/status/</link>
+      <link>https://indabax.github.io/status/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://indabaxzim.github.io/status/</guid>
+      <guid>https://indabax.github.io/status/</guid>
       <description>Open source projects come in all shapes and sizes, and Twitter&amp;rsquo;s projects are no exception. Sometimes we publish projects that are highly experimental or are in very early stages of development. Other times we publish some of the core infrastructure that is used to serve hundreds of millions of tweets every day.
 These project status labels, which you&amp;rsquo;ll find attached to various Twitter projects, are designed to help indicate how stable a project is and where it is in its development lifecycle.</description>
     </item>
