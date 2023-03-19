@@ -1,0 +1,23 @@
+	<!-- Logo -->
+				<!-- <img src="{{ .logo }}" class="membership-logo"> -->
+
+				<!-- <div class="name-handle"> -->
+					<!-- Name -->
+					<!-- <h2>{{ .name }}</h2> -->
+
+					<!-- Twitter handle -->
+					<!-- {{ with .twitter }}
+					<a href="https://twitter.com/{{ . }}" target="_blank" rel="noopener" class="membership-handle">
+						@{{ . }}
+					</a> -->
+					<!-- {{ end }} -->
+
+				<!-- Description -->
+				<!-- <p>{{ .description }}</p> -->
+
+				<!-- Visit website
+				{{ with .website }}
+					<a href="{{ . }}" class="Button">Visit</a>
+				{{ end }}
+			</div>
+		</div> -->
