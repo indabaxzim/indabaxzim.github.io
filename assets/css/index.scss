@@ -92,6 +92,12 @@ img.emoji-img {
   height: 175px;
 }
 
+img.emoji-sponsor{
+  display: block;
+  width: auto;
+  height: auto;
+}
+
 /* Home page media queries */
 
 /* Less than --feather-grid-page-width + (--feather-grid-mega * 2) */
