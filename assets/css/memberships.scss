@@ -81,7 +81,9 @@ a.membership-handle:hover, a.membership-handle:active {
   top: var(--feather-grid-large);
   left: 0;
   height: var(--logo-size-normal);
-  width: var(--logo-size-normal);  /* will this distort image though */
+  width: var(--logo-size-normal); 
+  object-fit: cover;
+  /* will this distort image though */
 }
 
 .name-handle, .membership p {
